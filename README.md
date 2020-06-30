@@ -1,0 +1,2 @@
+# BallMoving
+水中机器人比赛2D仿真组比赛代码。搭配组委会的URWPGSim2D运行
